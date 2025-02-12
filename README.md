@@ -1,7 +1,3 @@
-Sure! Here's a description you can use for your GitHub repository:
-
----
-
 # Flappy Bird Clone in Pygame
 
 This is a simple clone of the popular Flappy Bird game developed using Python and the Pygame library. The game features a bird that the player controls by pressing the UP and DOWN arrow keys, navigating through an endless series of pipes. The goal is to keep the bird alive by avoiding collisions with the pipes while collecting points.
